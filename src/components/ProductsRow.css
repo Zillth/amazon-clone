@@ -1,0 +1,26 @@
+.product__row {
+    display: flex;
+    z-index: 1;
+    margin: 25px auto 75px;
+    position: relative;
+    width: 95%;
+    justify-content: center;
+}
+
+.product__arrow {
+    position: absolute;
+    z-index: 10000;
+    padding: 0;
+    top: 40%;
+    width: 50px !important;
+    height: 50px !important;
+    font-size: 50px !important;
+}
+
+.icon-rigth {
+    right: 0;
+}
+
+.icon-left {
+    left: 0;
+}

@@ -1,0 +1,224 @@
+{
+    "ps4Games": [
+        {
+            "id": 11,
+            "title": "Tony Hawk's Pro Skater 1+2 - Standard Edition ",
+            "price": 53.91,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/5169NwViKCL._AC_SX184_.jpg",
+            "imageAlt": "Tony hawks",
+            "rating": 4
+        },
+        {
+            "id": 12,
+            "title": "Ghost of Tsushima - Standard Edition",
+            "price": 59.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51gz0ZYMTXL._AC_SX184_.jpg",
+            "imageAlt": "ghost",
+            "rating": 5
+        },
+        {
+            "id": 13,
+            "title": "Marvel's Avengers - Standard Edition",
+            "price": 58.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/5161qWj-heL._AC_SX184_.jpg",
+            "imageAlt": "avengers",
+            "rating": 4
+        },
+        {
+            "id": 14,
+            "title": "Crash Bandicoot 4: It’s About Time ",
+            "price": 61.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51h8i4yZ7cL._AC_SX184_.jpg",
+            "imageAlt": "crash",
+            "rating": 0
+        },
+        {
+            "id": 15,
+            "title": "Assassin's Creed Valhalla ",
+            "price": 65.4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lU01KzBUL._AC_SX184_.jpg",
+            "imageAlt": "asc vhalala",
+            "rating": 0
+        },
+        {
+            "id": 16,
+            "title": "FIFA 21 - PlayStation 4 Standard Edition",
+            "price": 58.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51YYSFS5flL._AC_SX184_.jpg",
+            "imageAlt": "fifa",
+            "rating": 0
+        },
+        {
+            "id": 17,
+            "title": "Destroy All Humans! - PS4 - Standard Edition",
+            "price": 27.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/514dMOrElLL._AC_SX184_.jpg",
+            "imageAlt": "destroy all humans",
+            "rating": 4
+        },
+        {
+            "id": 18,
+            "title": "No Straight Roads",
+            "price": 30.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51+pee2o7rL._AC_SX184_.jpg",
+            "imageAlt": "no stragith roads",
+            "rating": 4
+        },
+        {
+            "id": 19,
+            "title": "Desperados III",
+            "price": 49.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51R524l-ZZL._AC_SX184_.jpg",
+            "imageAlt": "despetation III",
+            "rating": 4
+        }
+    ],
+    "xboxGames": [
+        {
+            "id": 21,
+            "title": "Call of Duty: Black Ops Cold War",
+            "price": 59.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/91gLIWJ6qxL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "COD BO Cold war",
+            "rating": 0
+        },
+        {
+            "id": 22,
+            "title": "Madden NFL 21 Deluxe Edition - Xbox One",
+            "price": 61.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/81uGB07AEhL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Madden NFL 21 Deluxe Edition - Xbox One",
+            "rating": 4
+        },
+        {
+            "id": 23,
+            "title": "Assassin's Creed Valhalla - Xbox One Standard Edition",
+            "price": 49.44,
+            "imageUrl": "https://m.media-amazon.com/images/I/81XDBmZCsdL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Assassin's Creed Valhalla - Xbox One Standard Edition",
+            "rating": 0
+        },
+        {
+            "id": 24,
+            "title": "Star Wars: Squadrons - Xbox One",
+            "price": 39.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/71L6W33r81L._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Star Wars: Squadrons - Xbox One",
+            "rating": 0
+        },
+        {
+            "id": 25,
+            "title": "Madden NFL 21 MVP Edition - Xbox One",
+            "price": 74.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/71RfvgPfsTL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Madden NFL 21 MVP Edition - Xbox One",
+            "rating": 4
+        },
+        {
+            "id": 26,
+            "title": "Minecraft Starter Collection - Xbox One",
+            "price": 22.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/71QpSBZtkqL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Minecraft Starter Collection - Xbox One",
+            "rating": 5
+        },
+        {
+            "id": 27,
+            "title": "Kingdoms of Amalur Re-Reckoning - Xbox One - Xbox One Standard Edition",
+            "price": 39.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/61SpD19UAWL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Kingdoms of Amalur Re-Reckoning - Xbox One - Xbox One Standard Edition",
+            "rating": 4
+        },
+        {
+            "id": 28,
+            "title": "Borderlands 3 Super Deluxe Edition Xbox One",
+            "price": 39.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/81ZRe++R6xL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Borderlands 3 Super Deluxe Edition Xbox One",
+            "rating": 5
+        },
+        {
+            "id": 29,
+            "title": "Grand Theft Auto V Xbox One",
+            "price": 23.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/61rAZbhTV4L._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Grand Theft Auto V Xbox One",
+            "rating": 5
+        }
+    ],
+    "switchGames": [
+        {
+            "id": 31,
+            "title": "Mario Kart 8 Deluxe - Nintendo Switch",
+            "price": 42.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/91KQmjDxj-L._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Mario Kart 8 Deluxe - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 32,
+            "title": "Animal Crossing: New Horizons - Nintendo Switch",
+            "price": 59.65,
+            "imageUrl": "https://m.media-amazon.com/images/I/710JXdscVsL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Animal Crossing: New Horizons - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 33,
+            "title": "New Super Mario Bros. U Deluxe - Nintendo Switch",
+            "price": 59.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/811vUy172eL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "New Super Mario Bros. U Deluxe - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 34,
+            "title": "Super Smash Bros. Ultimate - Nintendo Switch",
+            "price": 59.90,
+            "imageUrl": "https://m.media-amazon.com/images/I/81aJ-R4E6gL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Super Smash Bros. Ultimate - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 35,
+            "title": "Super Mario Odyssey - Nintendo Switch",
+            "price": 41.08,
+            "imageUrl": "https://m.media-amazon.com/images/I/518mL2i0riL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Super Mario Odyssey - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 36,
+            "title": "Luigi's Mansion 3 - Nintendo Switch",
+            "price": 54.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/81-FD3tzUlL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Luigi's Mansion 3 - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 37,
+            "title": "Legend of Zelda Link's Awakening - Nintendo Switch",
+            "price": 49.89,
+            "imageUrl": "https://m.media-amazon.com/images/I/81omvlqspZL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Legend of Zelda Link's Awakening - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 38,
+            "title": "Pokémon Sword - Nintendo Switch",
+            "price": 59.90,
+            "imageUrl": "https://m.media-amazon.com/images/I/81F1eKUToxL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Pokémon Sword - Nintendo Switch",
+            "rating": 5
+        },
+        {
+            "id": 39,
+            "title": "Splatoon 2 - Nintendo Switch",
+            "price": 59.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/81dNjZGGgKL._AC_UY327_FMwebp_QL65_.jpg",
+            "imageAlt": "Splatoon 2 - Nintendo Switch",
+            "rating": 4
+        }
+    ]
+}
